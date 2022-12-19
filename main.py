@@ -1,6 +1,9 @@
 # coding = utf-8
 # 用于收集管理素材
 # @tdccj
+
+# 难以实现透明，已被放弃
+
 import tkinter
 from tkinter import *
 
